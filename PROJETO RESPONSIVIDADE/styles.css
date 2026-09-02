@@ -100,7 +100,7 @@ a:hover {
 }
 
 a:active {
-   opacity: .8;
+   opacity: .7;
 }
 
 @media screen and (max-width: 900px) {
